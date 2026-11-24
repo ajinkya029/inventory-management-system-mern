@@ -149,7 +149,7 @@ _Note: The structure above is a representative overview. Adjust folder names if 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-management-system.git
+git clone https://github.com/ajinkya029/inventory-management-system-mern.git
 ```
 
 ### 2. Navigate to the Project
